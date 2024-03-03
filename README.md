@@ -1,2 +1,2 @@
 # Projetos-Java
-Projetos do curso Algoritmos e Estruturas de Dados
+Projetos do curso Algoritmos e Estrutura de Dados
